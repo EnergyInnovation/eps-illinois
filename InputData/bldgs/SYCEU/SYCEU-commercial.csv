@@ -1,11 +1,11 @@
-Year,heating,cooling & ventilation,envelope,lighting,appliances,other,,
-electricity (BTU),4011400149877.73,0.0,0.0,17534193333220.7,0.0,83845329205631.7,,
-coal (BTU),0.0,0.0,0.0,0.0,0.0,0.0,,
-natural gas (BTU),140480198937555.0,0.0,0.0,0.0,0.0,41675118242366.5,,
-petroleum diesel (BTU),5589624908006.4,0.0,0.0,0.0,0.0,13934375091993.5,,
-heat (BTU),0.0,0.0,0.0,0.0,0.0,0.0,,
-biomass (BTU),867000000000.0,0.0,0.0,0.0,0.0,0.0,,
-kerosene (BTU),22000000000.0,0.0,0.0,0.0,0.0,0.0,,
-heavy or residual fuel oil (BTU),0.0,0.0,0.0,0.0,0.0,0.0,,
-LPG propane or butane (BTU),7061000000000.0,0.0,0.0,0.0,0.0,0.0,,
-hydrogen (BTU),0.0,0.0,0.0,0.0,0.0,0.0,,
+Year,heating,cooling & ventilation,envelope,lighting,appliances,other
+electricity (BTU),4004332421119.222,31582342930533.22,0.0,17503299650753.695,23314423772804.7,83697601224789.16
+coal (BTU),0.0,0.0,0.0,0.0,0.0,0.0
+natural gas (BTU),140480198937555.42,556948613408.2733,0.0,0.0,47606734206669.78,41675118242366.516
+petroleum diesel (BTU),5587907137598.292,0.0,0.0,0.0,0.0,13930092862401.707
+heat (BTU),0.0,0.0,0.0,0.0,0.0,0.0
+biomass (BTU),869000000000.0,0.0,0.0,0.0,0.0,0.0
+kerosene (BTU),22000000000.0,0.0,0.0,0.0,0.0,0.0
+heavy or residual fuel oil (BTU),0.0,0.0,0.0,0.0,0.0,0.0
+LPG propane or butane (BTU),7061000000000.0,0.0,0.0,0.0,0.0,0.0
+hydrogen (BTU),0.0,0.0,0.0,0.0,0.0,0.0
